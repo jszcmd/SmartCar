@@ -60,4 +60,13 @@
 // 无线波形数据传输的头文件。
 #include "wireless_wave.h"
 
+// 陀螺仪模块（MPU6050）的头文件。
+#include "mpu6050.h"
+
+// 电机闭环控制头文件
+#include "close_loop.h"
+
+// 激光测距传感器封装头文件
+#include "distance_sensor.h"
+
 #endif

@@ -93,15 +93,16 @@
 ./../tools/LQ_Dep_libs/ffmpeg_install/share/ffmpeg/examples/vaapi_encode.c
 ./../tools/LQ_Dep_libs/ffmpeg_install/share/ffmpeg/examples/vaapi_transcode.c
 ./../user_app/src/buzzer.cpp
-./../user_app/src/ceju.cpp
 ./../user_app/src/circle.cpp
 ./../user_app/src/close_loop.cpp
 ./../user_app/src/cross.cpp
+./../user_app/src/distance_sensor.cpp
 ./../user_app/src/encoder.cpp
 ./../user_app/src/image.cpp
 ./../user_app/src/img_process.cpp
 ./../user_app/src/key.cpp
 ./../user_app/src/motor.cpp
+./../user_app/src/mpu6050.cpp
 ./../user_app/src/openCV_find_red.cc
 ./../user_app/src/pid.cpp
 ./../user_app/src/target.cpp

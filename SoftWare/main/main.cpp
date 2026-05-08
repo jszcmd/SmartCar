@@ -33,10 +33,10 @@ int main(void)
     while (ls_system_running)
     {
         // 取一帧，处理，返回中线偏差
-        float error = get_errors();
+        float mid_error = get_errors();
 
         // 打印偏差值，观察是否正常
-        printf("mid_error = %.2f\n", error);
+        printf("mid_error = %.2f\n", mid_error);
     }
 
     // ══════════════════════════════════════════════
